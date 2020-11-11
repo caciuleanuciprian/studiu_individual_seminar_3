@@ -1,0 +1,5 @@
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema3\StudiuIndividualProblema3\bin\Debug\StudiuIndividualProblema3.exe.config
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema3\StudiuIndividualProblema3\bin\Debug\StudiuIndividualProblema3.exe
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema3\StudiuIndividualProblema3\bin\Debug\StudiuIndividualProblema3.pdb
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema3\StudiuIndividualProblema3\obj\Debug\StudiuIndividualProblema3.exe
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema3\StudiuIndividualProblema3\obj\Debug\StudiuIndividualProblema3.pdb
